@@ -1,0 +1,2 @@
+rootProject.name = "MVVM ShoppingList"
+include ':app'
